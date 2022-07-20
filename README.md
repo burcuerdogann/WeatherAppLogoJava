@@ -2,4 +2,4 @@
 
 Android Development / Java Tutorial - Lesson 30
 
-Application Logo | Adobe XD
+Mobile Application Logo | Android Studio | Adobe XD
